@@ -64,6 +64,8 @@ public class User {
         this.createdAt = createdAt;
     }
 
+    public User(){ }
+
     public User(Long id, String username, String email, String password, LocalDateTime createdAt) {
         this.id = id;
         this.username = username;
