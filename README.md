@@ -181,11 +181,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abrir um Pull Request
 
-## 📄 Licença
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## 👨‍💻 Autor
-**Seu Nome**  
+**Murilo França de Sousa**  
 - GitHub: [murilo2201](https://github.com/murilo2201)
 
 - Email: murilofs.franca@gmail.com
